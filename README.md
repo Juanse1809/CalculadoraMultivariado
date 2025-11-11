@@ -2,9 +2,6 @@
 
 Aplicación interactiva desarrollada en **Streamlit** que permite visualizar, analizar y resolver conceptos fundamentales del **Cálculo Multivariable** como funciones de varias variables, derivadas parciales, gradientes, optimización con restricciones e integrales múltiples.
 
-![Demo](https://user-images.githubusercontent.com/your-demo-image.png)  
-*(Captura de ejemplo — puedes reemplazarla con una imagen de tu app)*
-
 ---
 
 ## Características Principales
